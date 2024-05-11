@@ -3,7 +3,7 @@ package battery
 import (
 	"fmt"
 
-	"github.com/yumaojun03/dmidecode/smbios"
+	"github.com/beershall/dmidecode/smbios"
 )
 
 type Information struct {

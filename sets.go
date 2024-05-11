@@ -5,20 +5,20 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/yumaojun03/dmidecode/parser/power"
+	"github.com/beershall/dmidecode/parser/power"
 
-	"github.com/yumaojun03/dmidecode/parser/baseboard"
-	"github.com/yumaojun03/dmidecode/parser/battery"
-	"github.com/yumaojun03/dmidecode/parser/bios"
-	"github.com/yumaojun03/dmidecode/parser/chassis"
-	"github.com/yumaojun03/dmidecode/parser/memory"
-	"github.com/yumaojun03/dmidecode/parser/oem"
-	"github.com/yumaojun03/dmidecode/parser/onboard"
-	"github.com/yumaojun03/dmidecode/parser/port"
-	"github.com/yumaojun03/dmidecode/parser/processor"
-	"github.com/yumaojun03/dmidecode/parser/slot"
-	"github.com/yumaojun03/dmidecode/parser/system"
-	"github.com/yumaojun03/dmidecode/parser/tpm"
+	"github.com/beershall/dmidecode/parser/baseboard"
+	"github.com/beershall/dmidecode/parser/battery"
+	"github.com/beershall/dmidecode/parser/bios"
+	"github.com/beershall/dmidecode/parser/chassis"
+	"github.com/beershall/dmidecode/parser/memory"
+	"github.com/beershall/dmidecode/parser/oem"
+	"github.com/beershall/dmidecode/parser/onboard"
+	"github.com/beershall/dmidecode/parser/port"
+	"github.com/beershall/dmidecode/parser/processor"
+	"github.com/beershall/dmidecode/parser/slot"
+	"github.com/beershall/dmidecode/parser/system"
+	"github.com/beershall/dmidecode/parser/tpm"
 )
 
 // NewInformationSet todo

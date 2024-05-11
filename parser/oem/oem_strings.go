@@ -3,7 +3,7 @@ package oem
 import (
 	"fmt"
 
-	"github.com/yumaojun03/dmidecode/smbios"
+	"github.com/beershall/dmidecode/smbios"
 )
 
 // Information 系统信息

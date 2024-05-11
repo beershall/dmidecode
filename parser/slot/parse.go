@@ -1,7 +1,7 @@
 package slot
 
 import (
-	"github.com/yumaojun03/dmidecode/smbios"
+	"github.com/beershall/dmidecode/smbios"
 )
 
 // Parse 解析slot信息

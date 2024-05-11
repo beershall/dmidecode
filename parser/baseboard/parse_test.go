@@ -3,9 +3,9 @@ package baseboard_test
 import (
 	"testing"
 
+	"github.com/beershall/dmidecode/parser/baseboard"
+	"github.com/beershall/dmidecode/smbios"
 	"github.com/stretchr/testify/assert"
-	"github.com/yumaojun03/dmidecode/parser/baseboard"
-	"github.com/yumaojun03/dmidecode/smbios"
 )
 
 var (

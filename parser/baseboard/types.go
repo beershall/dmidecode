@@ -1,7 +1,5 @@
 package baseboard
 
-import "fmt"
-
 // FeatureFlags 主板功能标签
 type FeatureFlags byte
 
