@@ -16,7 +16,6 @@ const (
 )
 
 func (f FeatureFlags) String() string {
-	fmt.Printf("xxx,%d", f)
 	features := [...]string{
 		"Board is a hosting board", /* 0 */
 		"Board requires at least one daughter board",
